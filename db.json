@@ -37,6 +37,33 @@
         "authors": "Jennifer Quasha",    
         "description": "Cats are the most popular pets in America today, and kids love reading about their furry friends. From the strange to the everyday, this series has it all! Books on the Sphynx and the Manx discuss some of the most unusual breeds, while a book on shorthaired cats tells the history of non-pedigreed cats in America. Your students will love finding out more about the history and inherited traits of the pets they have at home.",
         "thumbnail": "http://books.google.com/books/content?id=SZkNsP7brm8C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73odiOC0K-eL9BXKdxfHmee3PMPwinfpajvZuTx9lo4QGvz1hbqvyCuUBK8_BiQwvKh6XT2Oam1jmnTlybJ7Pvp30s9aYq8Je_8aiCI0ufrm5SunT2IlDkXfnGKe6jOSZJwFtxZ&source=gbs_api"
+      },
+      {
+        "id": 6,
+        "title": "The Welfare of Cats",
+        "authors": "Irene Rochlitz",
+        "description": "Animal welfare is attracting increasing interest worldwide, but particularly from those in developed countries, who now have the knowledge and resources to be able to offer the best management systems for their farm animals, as well as potentially being able to offer plentiful resources for companion, zoo and laboratory animals. The increased attention given to farm animal welfare in the West derives largely from the fact that the relentless pursuit of financial reward and efficiency has led to the development of intensive animal production systems, that challenge the conscience of many consumers in those countries. In developing countries human survival is still a daily uncertainty, so that provision for animal welfare has to be balanced against human welfare. Welfare is usually provided for only if it supports the output of the animal, be it food, work, clothing, sport or companionship. In reality, there are resources for all if they are properly husbanded in both developing and developed countries.",
+        "thumbnail": "http://books.google.com/books/content?id=0HmB3ix5IQ8C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71qnZRdP4gEL5CiYbH2W1PNOOOOncPl-732Irza22aVjWv-ZbXmX2p44izjOrzt2CU7y5AGJF_8_kwgYDwMTKY4X2ESbG57zqJU_pw2tQ6pXXG0UrjNkINfSDYU-6NUhufMWq2n&source=gbs_api"
+      },
+      {
+        "id": 7,
+        "title": "Cats",
+          "authors": "Christina Wilsdon",
+          "description": "Did you know that the most popular pet in the United States is the cat? Cat lovers know why—these beautiful animals are great companions who can also be very independent.  Learn all about these favorite pets and how they are similar to their big cat ancestors.",
+          "thumbnail": "http://books.google.com/books/content?id=iBYNKr9IKmQC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE724qjXqnguft51rwoRKKoxEJisdFCK6IB5-IKeP05FYzwOPu7jRV652WiK0d95itsc_UC9n4rqdHRjnCXWzcHzghTmXs3Jj5w9oszp_KbrCQJZ3cZeAuw7VNO_GJfbkLC2GA1w3&source=gbs_api"
+      },
+      {
+        "id": 8,
+        "title": "Nutrient Requirements of Dogs and Cats",
+        "authors": [
+          "National Research Council",
+          "Division on Earth and Life Studies",
+          "Board on Agriculture and Natural Resources",
+          "Committee on Animal Nutrition",
+          "Subcommittee on Dog and Cat Nutrition"
+        ],
+        "description": "Updating recommendations last made by the National Research Council in the mid-1980s, this report provides nutrient recommendations based on physical activity and stage in life, major factors that influence nutrient needs. It looks at how nutrients are metabolized in the bodies of dogs and cats, indications of nutrient deficiency, and diseases related to poor nutrition. The report provides a valuable resource for industry professionals formulating diets, scientists setting research agendas, government officials developing regulations for pet food labeling, and as a university textbook for dog and cat nutrition. It can also guide pet owners feeding decisions for their pets with information on specific nutrient needs, characteristics of different types of pet foods, and factors to consider when feeding cats and dogs.",
+        "thumbnail": "http://books.google.com/books/content?id=aqeCwxbRWvsC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE708FDnBuTcRhHhIqDujIgSmTtD286naF7iEOc35cicv_ykURZIaA7UHm0h1fEI6FAQdssmCoBq90jcZng1QLlLsfQ061-dq1ty8srBGdiKGF8vi1W4wyA04yAbc730A4S2Stcy9&source=gbs_api"
       }
   ]
 }
